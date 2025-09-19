@@ -28,7 +28,7 @@ public class Bai31 {
                 break;
             case '/':
                 if (b != 0) {
-                    result = a / b;  /
+                    result = a / b;  
                 } else {
                     System.out.println("Lỗi: Không thể chia cho 0.");
                     valid = false;
@@ -52,3 +52,4 @@ public class Bai31 {
         }
     }
 }
+
